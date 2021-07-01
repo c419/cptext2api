@@ -1,4 +1,4 @@
-#Text to API tool for checkpoint management api
+# Text to API tool for checkpoint management API
 Quick write for generating api comands from text:
 ```
 $ cat example1.txt
